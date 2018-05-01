@@ -5,3 +5,4 @@ XBee footprint compatible WiFi/WLAN Module with Microchip ATWINC1500 WiFi Networ
 * Integrated WiFi and IPv4 stack
 * SPI interface
 * XBee compatible Pinout (3.3V)
+* **[Documentation on learn.watterott.com](http://learn.watterott.com/bee-modules/wifi-bee/)**
